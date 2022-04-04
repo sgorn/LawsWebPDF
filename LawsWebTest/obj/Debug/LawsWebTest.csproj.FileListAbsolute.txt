@@ -1,3 +1,0 @@
-C:\Users\sgorn\source\repos\GIT\LawsWebTest\LawsWebTest\obj\Debug\LawsWebTest.csproj.AssemblyReference.cache
-C:\Users\sgorn\source\repos\GIT\LawsWebTest\LawsWebTest\obj\Debug\LawsWebTest.csproj.SuggestedBindingRedirects.cache
-C:\Users\sgorn\source\repos\GIT\LawsWebTest\LawsWebTest\obj\Debug\LawsWebTest.csproj.CoreCompileInputs.cache
